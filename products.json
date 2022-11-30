@@ -10,7 +10,7 @@
             "quantity": 97,
             "category": "Jewelry",
             "creator": 1,
-            "creationDate": "2021-12-16",
+            "creation_date": "2021-12-16",
             "supplier": "Oyope"
         },
         {
@@ -22,7 +22,7 @@
             "quantity": 24,
             "category": "Drinks",
             "creator": 1,
-            "creationDate": "2022-08-10",
+            "creation_date": "2022-08-10",
             "supplier": "Buzzster"
         },
         {
@@ -34,7 +34,7 @@
             "quantity": 95,
             "category": "Food",
             "creator": 2,
-            "creationDate": "2022-07-27",
+            "creation_date": "2022-07-27",
             "supplier": "Avamm"
         },
         {
@@ -46,7 +46,7 @@
             "quantity": 62,
             "category": "Shoes",
             "creator": 4,
-            "creationDate": "2022-10-17",
+            "creation_date": "2022-10-17",
             "supplier": "Roodel"
         },
         {
@@ -58,7 +58,7 @@
             "quantity": 61,
             "category": "Electronics",
             "creator": 1,
-            "creationDate": "2022-01-02",
+            "creation_date": "2022-01-02",
             "supplier": "Skinte"
         }
     ]
