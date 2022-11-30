@@ -1,0 +1,65 @@
+{
+    "error": null,
+    "data": [
+        {
+            "sku": "16-232-7508",
+            "title": "Infinity Bangle",
+            "brand": "Swarovski",
+            "summary": "Symbol of Love ",
+            "price": 131.16,
+            "quantity": 97,
+            "category": "Jewelry",
+            "creator": 1,
+            "creationDate": "2021-12-16",
+            "supplier": "Oyope"
+        },
+        {
+            "sku": "28-122-9924",
+            "title": "Cabernet Sauvignon",
+            "brand": "Hectare",
+            "summary": "American",
+            "price": 2.99,
+            "quantity": 24,
+            "category": "Drinks",
+            "creator": 1,
+            "creationDate": "2022-08-10",
+            "supplier": "Buzzster"
+        },
+        {
+            "sku": "32-885-9424",
+            "title": "Bread",
+            "brand": "Wonder Bread",
+            "summary": "Feed Your Joy. ",
+            "price": 2.89,
+            "quantity": 95,
+            "category": "Food",
+            "creator": 2,
+            "creationDate": "2022-07-27",
+            "supplier": "Avamm"
+        },
+        {
+            "sku": "78-736-0229",
+            "title": "Superstar",
+            "brand": "Adidas",
+            "summary": "Originally made for basketball courts in the 70s.",
+            "price": 67,
+            "quantity": 62,
+            "category": "Shoes",
+            "creator": 4,
+            "creationDate": "2022-10-17",
+            "supplier": "Roodel"
+        },
+        {
+            "sku": "79-114-5362",
+            "title": "MX Master 3",
+            "brand": "Logitech",
+            "summary": "Ergonomic Mouse",
+            "price": 99.99,
+            "quantity": 61,
+            "category": "Electronics",
+            "creator": 1,
+            "creationDate": "2022-01-02",
+            "supplier": "Skinte"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "error": null,
+    "data": [
+        {
+            "id": 1,
+            "date": "2021-10-19 14:21:55",
+            "salesperson_id": 2,
+            "total": "99.99",
+            "discount": 0,
+            "final_total": 99.99,
+            "payment_type": "CASH",
+            "creditcard_type": null,
+            "creditcard_number": null,
+            "creditcard_expiration": "4/19/2022",
+            "items": [],
+            "discounts": []
+        },
+        {
+            "id": 2,
+            "date": "2021-10-19 12:11:32",
+            "salesperson_id": 1,
+            "total": "131.16",
+            "discount": 6.56,
+            "final_total": 124.6,
+            "payment_type": "CARD",
+            "creditcard_type": "americanexpress",
+            "creditcard_number": "374288515952579",
+            "creditcard_expiration": "11/17/2022",
+            "items": [],
+            "discounts": []
+        },
+        {
+            "id": 3,
+            "date": "2021-10-21 10:33:11",
+            "salesperson_id": 3,
+            "total": "2.99",
+            "discount": 0.3,
+            "final_total": 2.69,
+            "payment_type": "CARD",
+            "creditcard_type": "americanexpress",
+            "creditcard_number": "374283762303196",
+            "creditcard_expiration": "2/4/2023",
+            "items": [],
+            "discounts": []
+        },
+        {
+            "id": 4,
+            "date": "2021-10-23 15:19:19",
+            "salesperson_id": 4,
+            "total": "2.89",
+            "discount": 0,
+            "final_total": 2.89,
+            "payment_type": "CARD",
+            "creditcard_type": "mastercard",
+            "creditcard_number": "5108750770479970",
+            "creditcard_expiration": "3/9/2023",
+            "items": [],
+            "discounts": []
+        },
+        {
+            "id": 5,
+            "date": "2021-10-23 11:16:63",
+            "salesperson_id": 2,
+            "total": "67.00",
+            "discount": 3.35,
+            "final_total": 63.65,
+            "payment_type": "CASH",
+            "creditcard_type": null,
+            "creditcard_number": null,
+            "creditcard_expiration": "5/26/2023",
+            "items": [],
+            "discounts": []
+        }
+    ]
+}

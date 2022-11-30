@@ -1,0 +1,75 @@
+{
+    "error": null,
+    "data": [
+        {
+            "id": "1",
+            "first_name": "Abner",
+            "last_name": "Beardwell",
+            "phone_number": "916-651-8952",
+            "email": "abeardwell0@webs.com",
+            "address": "6 Dovetail Crossing",
+            "city": "Sacramento",
+            "state": "CA",
+            "zipcode": "94237",
+            "password": "TXFBV7w1Y0GI",
+            "hire_date": "2022-07-19",
+            "starting_amount": 300
+        },
+        {
+            "id": "2",
+            "first_name": "Gavin",
+            "last_name": "Curness",
+            "phone_number": "754-584-1871",
+            "email": "gcurness1@twitpic.com",
+            "address": "1 Morningstar Place",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zipcode": "33310",
+            "password": "wVTpq9B",
+            "hire_date": "2021-12-03",
+            "starting_amount": 300
+        },
+        {
+            "id": "3",
+            "first_name": "Grier",
+            "last_name": "Castellaccio",
+            "phone_number": "319-376-1073",
+            "email": "gcastellaccio2@github.com",
+            "address": "0 Pawling Street",
+            "city": "Waterloo",
+            "state": "IA",
+            "zipcode": "50706",
+            "password": "DICMpvtL0",
+            "hire_date": "2022-08-07",
+            "starting_amount": 300
+        },
+        {
+            "id": "4",
+            "first_name": "Bary",
+            "last_name": "Portman",
+            "phone_number": "651-250-8114",
+            "email": "bportman3@simplemachines.org",
+            "address": "0 Summer Ridge Plaza",
+            "city": "Saint Paul",
+            "state": "MN",
+            "zipcode": "55146",
+            "password": "MjxZ6bBKq",
+            "hire_date": "2022-09-08",
+            "starting_amount": 292.32
+        },
+        {
+            "id": "5",
+            "first_name": "Gery",
+            "last_name": "Elmes",
+            "phone_number": "409-499-6540",
+            "email": "gelmes4@cnet.com",
+            "address": "25 Carpenter Park",
+            "city": "Galveston",
+            "state": "TX",
+            "zipcode": "77554",
+            "password": "428LJhxWhcB",
+            "hire_date": "2022-04-21",
+            "starting_amount": 296.83
+        }
+    ]
+}
